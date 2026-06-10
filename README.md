@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Tushar Bharat
+# 💫 Hi 👋, I'm Utkarsh Tripathi
 🔭 I’m currently working on<br>Full-Stack AI Applications and GenAI based projects<br><br>👯 I’m looking to collaborate on<br>Open Source Projects, MERN Stack Applications, AI/LLM Integrations, and Backend Systems<br><br>🤝 I’m looking for help with<br>Scalable System Design, AI Agents, and Distributed Systems<br><br>🌱 I’m currently learning<br>System Design, Computer Vision, LangGraph, and AI Agent Workflows<br><br>💬 Ask me about<br>C++, DSA, Competitive Programming, MERN Stack, Node.js, Express.js, MongoDB, and React<br>
 
 
